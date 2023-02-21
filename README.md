@@ -37,5 +37,5 @@ You can modify the code and input your own data to make predictions.
 
 
 # Author
-This project was created by Aanchal Singh Chauhan. For more information, please contactwww.linkedin.com/in/aanchalschauhan
+This project was created by Aanchal Singh Chauhan. For more information, please contact www.linkedin.com/in/aanchalschauhan
 
