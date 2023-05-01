@@ -1,5 +1,7 @@
 # Bike-Demand-Prediction-Using-Linear-Regression
+This repository contains the analysis of Bike demand prediction.
 
+# Objective :
 This model is designed to predict the demand for bike rentals based on various features such as season, weather, and time of day.
 
 # Requirements :
@@ -8,16 +10,16 @@ NumPy
 Pandas
 Scikit-learn
 
-# Dataset
-The model is trained on the Bike Sharing Dataset. 
-The dataset includes hourly bike rental data for the Capital Bikeshare program in Washington, D.C. for two years (2018-2019). 
-The dataset consists of 730 instances and 16 features.
-
 # Files :
 | Sn. | File Name | Description |
 | - | - | - |
 | 01 | Bike Data | This file contains raw data in csv format |
 | 02 | Bike Demand Prediction using Linear Regression.ipynb | This file contains all codes and EDA part as well |
+
+# About Dataset
+The model is trained on the Bike Sharing Dataset. 
+The dataset includes hourly bike rental data for the Capital Bikeshare program in Washington, D.C. for two years (2018-2019). 
+The dataset consists of 730 instances and 16 features.
 
 # Features
 The features used in the model are:
