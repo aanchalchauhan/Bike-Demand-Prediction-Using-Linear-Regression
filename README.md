@@ -41,10 +41,15 @@ The model is implemented using Scikit-learn's LinearRegression class. The model 
 
 # Insights :
 •The season with the highest demand for bikes is likely to be summer, followed by fall and spring, with winter having the lowest demand.
+
 •Working days have a higher demand for bikes than non-working days.
+
 •As expected, the clearer the weather, the higher the bike demand. Misty or cloudy weather has a lower demand than clear weather, and light snow or rain has even lower demand. Heavy rain or snow has the lowest demand.
+
 •The months with the highest demand for bikes are likely to be May, June, and July, Aug, Sep with the lowest demand in January and February.
+
 •Higher temperature correlates with higher bike demand, indicating that people are more likely to use bikes for transportation when the weather is warmer.
+
 •There is a negative correlation between humidity and bike demand, suggesting that people are less likely to use bikes when it is more humid.
 
 # Usage
